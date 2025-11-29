@@ -1,0 +1,98 @@
+
+1. Folder structure
+2. Git commands
+3. package.json
+
+
+- react hooks                 
+
+producr base
+service base
+Saas - software as service
+
+ER-diagram
+
+
+=====================================
+Vs Extension :
+
+autoclose tag
+auto rename tag
+babel javascript
+Bootstrap intellisense
+bracket pair colorization toggler
+color highlight 
+color the tag name
+ES7 React/Redux/GraphQL/React-Native snippets 
+eslint 
+image preview 
+indent-colorizer 
+IntelliSense for CSS class names in HTML 
+liver server
+prettier 
+Turbo Console Log 
+Amazon Q ****
+
+spring boot dashboard
+spring boot extension package
+
+thunder client 
+
+=========================
+
+vs profile => sync in github 
+
+reactstrap = convert html code to eact 
+
+custom tag : Nav (first letter capital)
+ : img (first letter small) 
+
+======================
+
+validation & form create :
+- Formik 
+- Yup
+- zustand
+- react-hook-form
+
+================
+
+clone :
+- git bash
+- cmd 
+- vs code terminal  
+
+
+react
+TypeScript + SWC 
+
+
+====================
+
+- go through package.json once
+- vite config 
+
+    server : {
+    host : true,
+    strictPort : true,
+    port : 5173
+  }
+==================================
+env - untracked
+.gitignore 
+
+
+- git status
+- git add .
+- git status 
+  Changes to be committed:
+  (use "git rm --cached <file>..." to unstage) - used remove some file before commit 
+
+
+git push -u origin main
+git push 
+
+========
+
+- about
+- contact
